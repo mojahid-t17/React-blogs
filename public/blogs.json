@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co.com/KLJRJVp/23443168-6766390.jpg",
+        "title": "Exploring the Beauty of Nature",
+        "author_img": "https://i.ibb.co.com/82Xx4T9/boy1.png",
+        "author": "Alice Johnson",
+        "posted_date": "2024-10-15",
+        "reading_time": 5,
+        "hashtags": ["#nature", "#travel", "#exploration"]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co.com/fSPQ81K/26808636-7210394.jpg",
+        "title": "The Future of Web Development",
+        "author_img": "https://i.ibb.co.com/jy0FKVr/profile.png",
+        "author": "Bob Smith",
+        "posted_date": "2024-10-20",
+        "reading_time": 7,
+        "hashtags": ["#webdev", "#technology", "#coding"]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co.com/DRf7ZwP/33756016-8097560.jpg",
+        "title": "Healthy Living Tips for Busy People",
+        "author_img": "https://i.ibb.co.com/p3Crkvv/girl2.jpg",
+        "author": "Cathy Lee",
+        "posted_date": "2024-10-22",
+        "reading_time": 6,
+        "hashtags": ["#health", "#lifestyle", "#wellness"]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co.com/jD96fFb/20534883-6281161.jpg",
+        "title": "Artificial Intelligence: Changing the World",
+        "author_img": "https://i.ibb.co.com/sqrxDbs/girl1.jpg",
+        "author": "David Kim",
+        "posted_date": "2024-11-01",
+        "reading_time": 8,
+        "hashtags": ["#AI", "#innovation", "#future"]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co.com/jD96fFb/20534883-6281161.jpg",
+        "title": "Top 10 Gardening Tips for Beginners",
+        "author_img": "https://i.ibb.co.com/sqrxDbs/girl1.jpg",
+        "author": "Emma Green",
+        "posted_date": "2024-11-05",
+        "reading_time": 4,
+        "hashtags": ["#gardening", "#tips", "#nature"]
+    }
+]
